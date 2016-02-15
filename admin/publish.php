@@ -279,6 +279,7 @@ function xyz_ptp_link_publish($post_ID) {
 					$date = new DateTime(date( 'Y-m-d H:i:s', current_time( 'timestamp', 0 )), new DateTimeZone(get_option('timezone_string')));
 					// error_log('b4date: '.  $date -> format('Y-m-d-H-i-s') . "\n");
 					$date -> setTimezone(new DateTimeZone('UTC'));
+					$date -> add(new DateInterval('PT5M'));
 					// error_log('date: '.  $date -> format('Y-m-d-H-i-s') . "\n");
 
 					//Create a reminder which our pin will push before the event
