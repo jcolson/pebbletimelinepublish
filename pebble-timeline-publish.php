@@ -49,7 +49,7 @@ require_once( dirname( __FILE__ ) . '/xyz-functions.php' );
 require_once( dirname( __FILE__ ) . '/admin/menu.php' );
 require_once( dirname( __FILE__ ) . '/admin/destruction.php' );
 
-require_once( dirname( __FILE__ ) . '/api/facebook.php' );
+//require_once( dirname( __FILE__ ) . '/api/facebook.php' );
 
 require_once( dirname( __FILE__ ) . '/admin/ajax-backlink.php' );
 require_once( dirname( __FILE__ ) . '/admin/metabox.php' );

@@ -338,9 +338,9 @@ function xyz_ptp_link_publish($post_ID) {
 				}
 				try{
 				//$result = $fb->api('/'.$page_id.'/'.$disp_type.'/', 'post', $attachment);}
-				  error_log('prior to api call: '. $post_ID .' '.$apikey. ' ' . $topic);
+				  // error_log('prior to api call: '. $post_ID .' '.$apikey. ' ' . $topic);
 				  $result = Timeline::pushSharedPin($apikey, array($topic), $pin);
-					error_log('var dump: '. print_r( $result,TRUE));
+					// error_log('var dump: '. print_r( $result,TRUE));
 					if ($result['status']['code']!='100') {
 						$fb_publish_status[$page_id."/".$disp_type]=$result['status']['message'].';'.$result['result']['errorDetails'][0]['message'];
 					}
