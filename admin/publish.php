@@ -202,7 +202,7 @@ function xyz_ptp_link_publish($post_ID) {
 
 		if($apikey!="" && $topic!="" && $post_permissin==1)
 		{
-			$description_li=xyz_ptp_string_limit($description, 10000);
+			$description_li=xyz_ptp_string_limit($description, 600);
 
 			$user_page_id=get_option('xyz_ptp_fb_numericid');
 
@@ -274,8 +274,8 @@ function xyz_ptp_link_publish($post_ID) {
 //							'access_token' => $acces_token
 //					);
 					//Create some layouts which our pin will use
-					$reminderlayout = new PinLayout(PinLayoutType::GENERIC_REMINDER, $name, null, null, $description, PinIcon::REACHED_FITNESS_GOAL);
-					$pinlayout = new PinLayout(PinLayoutType::GENERIC_PIN, $name, null, null, $description, PinIcon::REACHED_FITNESS_GOAL);
+					$reminderlayout = new PinLayout(PinLayoutType::GENERIC_REMINDER, $name, null, null, $description_li, PinIcon::REACHED_FITNESS_GOAL);
+					$pinlayout = new PinLayout(PinLayoutType::GENERIC_PIN, $name, null, null, $description_li, PinIcon::REACHED_FITNESS_GOAL);
 					$date = new DateTime(date( 'Y-m-d H:i:s', current_time( 'timestamp', 0 )), new DateTimeZone(get_option('timezone_string')));
 					// error_log('b4date: '.  $date -> format('Y-m-d-H-i-s') . "\n");
 					$date -> setTimezone(new DateTimeZone('UTC'));
