@@ -277,9 +277,9 @@ function xyz_ptp_link_publish($post_ID) {
 					$reminderlayout = new PinLayout(PinLayoutType::GENERIC_REMINDER, $name, null, null, $description_li, PinIcon::REACHED_FITNESS_GOAL);
 					$pinlayout = new PinLayout(PinLayoutType::GENERIC_PIN, $name, null, null, $description_li, PinIcon::REACHED_FITNESS_GOAL);
 					$date = new DateTime(date( 'Y-m-d H:i:s', current_time( 'timestamp', 0 )), new DateTimeZone(get_option('timezone_string')));
+					$date -> add(new DateInterval('PT15M'));
 					// error_log('b4date: '.  $date -> format('Y-m-d-H-i-s') . "\n");
 					$date -> setTimezone(new DateTimeZone('UTC'));
-					$date -> add(new DateInterval('PT5M'));
 					// error_log('date: '.  $date -> format('Y-m-d-H-i-s') . "\n");
 
 					//Create a reminder which our pin will push before the event
@@ -292,11 +292,11 @@ function xyz_ptp_link_publish($post_ID) {
 //					error_log('b4date: '.  $date -> format('Y-m-d-H-i-s') . "\n");
 					$date -> setTimezone(new DateTimeZone('UTC'));
 					// error_log('date: '.  $date -> format('Y-m-d-H-i-s') . "\n");
+
 					$pin = new Pin('PTP'.$post_ID, $date, $pinlayout);
 
 					//Attach the reminder
 					$pin -> addReminder($reminder);
-
 				}
 				else if($posting_method==4 || $posting_method==5) //text message with image 4 - app album, 5-timeline
 				{
