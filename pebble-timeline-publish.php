@@ -3,7 +3,7 @@
  Plugin Name: Pebble Timeline Publish
 Plugin URI: http://karma.net/wordpress-plugins/pebble-timeline-publish/
 Description:   Publish posts automatically from your blog to Pebble timeline.
-Version: 1.2.4.1
+Version: 1.1
 Author: karma.net
 Author URI: http://karma.net/
 License: GPLv2 or later

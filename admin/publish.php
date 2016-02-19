@@ -269,10 +269,8 @@ function xyz_ptp_link_publish($post_ID) {
 				}
 				else if($posting_method==3) //simple text message
 				{
-
-//					$attachment = array('message' => $message5,
-//							'access_token' => $acces_token
-//					);
+					// create pin action
+					$pinAction = new PinAction('View WOD','1',PinActionType::OPEN_WATCH_APP);
 					//Create some layouts which our pin will use
 					$reminderlayout = new PinLayout(PinLayoutType::GENERIC_REMINDER, $name, null, null, $description_li, PinIcon::REACHED_FITNESS_GOAL);
 					$pinlayout = new PinLayout(PinLayoutType::GENERIC_PIN, $name, null, null, $description_li, PinIcon::REACHED_FITNESS_GOAL);
@@ -297,6 +295,7 @@ function xyz_ptp_link_publish($post_ID) {
 
 					//Attach the reminder
 					$pin -> addReminder($reminder);
+					$pin -> addAction($pinAction);
 				}
 				else if($posting_method==4 || $posting_method==5) //text message with image 4 - app album, 5-timeline
 				{
