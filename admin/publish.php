@@ -4,6 +4,8 @@ use TimelineAPI\Pin;
 use TimelineAPI\PinLayout;
 use TimelineAPI\PinLayoutType;
 use TimelineAPI\PinIcon;
+use TimelineAPI\PinAction;
+use TimelineAPI\PinActionType;
 use TimelineAPI\PinReminder;
 use TimelineAPI\Timeline;
 

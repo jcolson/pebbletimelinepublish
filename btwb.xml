@@ -1,0 +1,425 @@
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:btwb="http://beyondthewhiteboard.com/">
+  <id>tag:beyondthewhiteboard.com,2007-12-23:/gyms/4860-crossfit-threefold/2016/feb/19</id>
+  <link rel="alternate" type="text/html" href="http://beyondthewhiteboard.com/gyms/4860-crossfit-threefold"/>
+  <link rel="self" type="application/atom+xml" href="http://beyondthewhiteboard.com/gyms/4860-crossfit-threefold/2016/feb/19.atom"/>
+  <title>CrossFit Threefold - 2016-02-19</title>
+  <updated>2016-02-19T10:13:14-08:00</updated>
+  <author>
+    <name>beyond the whiteboard</name>
+    <uri>http://beyondthewhiteboard.com/</uri>
+  </author>
+  <entry>
+    <id>tag:beyondthewhiteboard.com,2007-12-23:TrackEvent/3079828</id>
+    <published>2016-02-15T05:53:46-08:00</published>
+    <updated>2016-02-15T05:53:46-08:00</updated>
+    <link rel="alternate" type="text/html" href="http://beyondthewhiteboard.com/gyms/4860-crossfit-threefold/2016/feb/19"/>
+    <title>Every 2 mins for 10 mins: Deadlift</title>
+    <btwb:assigned>2016-02-19</btwb:assigned>
+    <summary>
+4 Deadlifts, pick load
+
+Every 2 mins for 10 mins.
+    </summary>
+    <category term="wod"/>
+    <category term="wod_id 3079828"/>
+    <category term="workout_id 2401760"/>
+    <category term="gym CrossFit Threefold"/>
+    <category term="track Threefold CrossFit WODs"/>
+    <category term="section main"/>
+    <author>
+      <name>CrossFit Threefold</name>
+      <uri>http://beyondthewhiteboard.com/gyms/4860-crossfit-threefold</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:beyondthewhiteboard.com,2007-12-23:WorkoutSession/19589572</id>
+    <published>2016-02-19T04:43:57-08:00</published>
+    <updated>2016-02-19T04:43:57-08:00</updated>
+    <link rel="alternate" type="text/html" href="http://beyondthewhiteboard.com/workout_sessions/19589572"/>
+    <title>Connor Jay Colson posted 4380 lbs | Not Rx'd for Every 2 mins...</title>
+    <author>
+      <name>Connor Jay Colson</name>
+      <uri>http://beyondthewhiteboard.com/members/158379</uri>
+    </author>
+    <summary/>
+    <category term="workout_session"/>
+    <category term="workout_id 2401760"/>
+    <category term="wod_id 3079828"/>
+    <link href="https://s3.amazonaws.com/assets.beyondthewhiteboard.com/images/missing/male-1-small.png" type="image/jpeg" title="profile_small"/>
+    <link href="https://s3.amazonaws.com/assets.beyondthewhiteboard.com/images/missing/male-4-medium.png" type="image/jpeg" title="profile_medium"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <ul class="workout_post">
+          <li class="name">Connor Jay Colson</li>
+          <li class="gender">Male</li>
+          <li class="workout">Every 2 mins for 10 mins: Deadlift</li>
+          <li class="result">4380 lbs</li>
+          <li class="prescribed">false</li>
+          <li class="video"></li>
+          <li class="profile_small">https://s3.amazonaws.com/assets.beyondthewhiteboard.com/images/missing/male-1-small.png</li>
+          <li class="profile_medium">https://s3.amazonaws.com/assets.beyondthewhiteboard.com/images/missing/male-1-medium.png</li>
+          <li class="profile_url">http://beyondthewhiteboard.com/members/158379</li>
+          <li class="result_change worsened">1080 lbs | Not Rx'd</li>
+        </ul>
+      </div>
+    </content>
+  </entry>
+  <entry>
+    <id>tag:beyondthewhiteboard.com,2007-12-23:WorkoutSession/19589652</id>
+    <published>2016-02-19T04:47:00-08:00</published>
+    <updated>2016-02-19T04:47:00-08:00</updated>
+    <link rel="alternate" type="text/html" href="http://beyondthewhiteboard.com/workout_sessions/19589652"/>
+    <title>Denise Colson posted 3020 lbs | Not Rx'd for Every 2 mins...</title>
+    <author>
+      <name>Denise Colson</name>
+      <uri>http://beyondthewhiteboard.com/members/158451</uri>
+    </author>
+    <summary/>
+    <category term="workout_session"/>
+    <category term="workout_id 2401760"/>
+    <category term="wod_id 3079828"/>
+    <link href="https://s3.amazonaws.com/assets.beyondthewhiteboard.com/pictures/images/000/049/803/small/Screen_Shot_2015-04-05_at_12.09.18_PM.png?1435291424" type="image/jpeg" title="profile_small"/>
+    <link href="https://s3.amazonaws.com/assets.beyondthewhiteboard.com/pictures/images/000/049/803/medium/Screen_Shot_2015-04-05_at_12.09.18_PM.png?1435291424" type="image/jpeg" title="profile_medium"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <ul class="workout_post">
+          <li class="name">Denise Colson</li>
+          <li class="gender">Female</li>
+          <li class="workout">Every 2 mins for 10 mins: Deadlift</li>
+          <li class="result">3020 lbs</li>
+          <li class="prescribed">false</li>
+          <li class="video"></li>
+          <li class="profile_small">https://s3.amazonaws.com/assets.beyondthewhiteboard.com/pictures/images/000/049/803/small/Screen_Shot_2015-04-05_at_12.09.18_PM.png?1435291424</li>
+          <li class="profile_medium">https://s3.amazonaws.com/assets.beyondthewhiteboard.com/pictures/images/000/049/803/medium/Screen_Shot_2015-04-05_at_12.09.18_PM.png?1435291424</li>
+          <li class="profile_url">http://beyondthewhiteboard.com/members/158451</li>
+          <li class="result_change"></li>
+        </ul>
+      </div>
+    </content>
+  </entry>
+  <entry>
+    <id>tag:beyondthewhiteboard.com,2007-12-23:WorkoutSession/19589988</id>
+    <published>2016-02-19T05:05:09-08:00</published>
+    <updated>2016-02-19T05:05:09-08:00</updated>
+    <link rel="alternate" type="text/html" href="http://beyondthewhiteboard.com/workout_sessions/19589988"/>
+    <title>Michael Bellomo posted 5860 lbs | Rx'd - PR for Every 2 mins...</title>
+    <author>
+      <name>Michael Bellomo</name>
+      <uri>http://beyondthewhiteboard.com/members/158504</uri>
+    </author>
+    <summary></summary>
+    <category term="workout_session"/>
+    <category term="personal_record"/>
+    <category term="workout_id 2401760"/>
+    <category term="wod_id 3079828"/>
+    <link href="https://s3.amazonaws.com/assets.beyondthewhiteboard.com/pictures/images/000/049/820/small/Screen_Shot_2015-12-17_at_3.50.09_PM.jpg?1450386169" type="image/jpeg" title="profile_small"/>
+    <link href="https://s3.amazonaws.com/assets.beyondthewhiteboard.com/pictures/images/000/049/820/medium/Screen_Shot_2015-12-17_at_3.50.09_PM.jpg?1450386169" type="image/jpeg" title="profile_medium"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <ul class="workout_post">
+          <li class="name">Michael Bellomo</li>
+          <li class="gender">Male</li>
+          <li class="workout">Every 2 mins for 10 mins: Deadlift</li>
+          <li class="result">5860 lbs</li>
+          <li class="prescribed">true</li>
+          <li class="video"></li>
+          <li class="profile_small">https://s3.amazonaws.com/assets.beyondthewhiteboard.com/pictures/images/000/049/820/small/Screen_Shot_2015-12-17_at_3.50.09_PM.jpg?1450386169</li>
+          <li class="profile_medium">https://s3.amazonaws.com/assets.beyondthewhiteboard.com/pictures/images/000/049/820/medium/Screen_Shot_2015-12-17_at_3.50.09_PM.jpg?1450386169</li>
+          <li class="profile_url">http://beyondthewhiteboard.com/members/158504</li>
+          <li class="result_change improved">400 lbs</li>
+        </ul>
+      </div>
+    </content>
+  </entry>
+  <entry>
+    <id>tag:beyondthewhiteboard.com,2007-12-23:WorkoutSession/19592508</id>
+    <published>2016-02-19T06:57:38-08:00</published>
+    <updated>2016-02-19T06:57:38-08:00</updated>
+    <link rel="alternate" type="text/html" href="http://beyondthewhiteboard.com/workout_sessions/19592508"/>
+    <title>Rob Schlegel posted 5860 lbs | Rx'd for Every 2 mins...</title>
+    <author>
+      <name>Rob Schlegel</name>
+      <uri>http://beyondthewhiteboard.com/members/158538</uri>
+    </author>
+    <summary/>
+    <category term="workout_session"/>
+    <category term="workout_id 2401760"/>
+    <category term="wod_id 3079828"/>
+    <link href="https://s3.amazonaws.com/assets.beyondthewhiteboard.com/pictures/images/000/049/887/small/1397091_10206983865987069_3394315991090463892_o_(1).jpg?1451102980" type="image/jpeg" title="profile_small"/>
+    <link href="https://s3.amazonaws.com/assets.beyondthewhiteboard.com/pictures/images/000/049/887/medium/1397091_10206983865987069_3394315991090463892_o_(1).jpg?1451102980" type="image/jpeg" title="profile_medium"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <ul class="workout_post">
+          <li class="name">Rob Schlegel</li>
+          <li class="gender">Male</li>
+          <li class="workout">Every 2 mins for 10 mins: Deadlift</li>
+          <li class="result">5860 lbs</li>
+          <li class="prescribed">true</li>
+          <li class="video"></li>
+          <li class="profile_small">https://s3.amazonaws.com/assets.beyondthewhiteboard.com/pictures/images/000/049/887/small/1397091_10206983865987069_3394315991090463892_o_(1).jpg?1451102980</li>
+          <li class="profile_medium">https://s3.amazonaws.com/assets.beyondthewhiteboard.com/pictures/images/000/049/887/medium/1397091_10206983865987069_3394315991090463892_o_(1).jpg?1451102980</li>
+          <li class="profile_url">http://beyondthewhiteboard.com/members/158538</li>
+          <li class="result_change"></li>
+        </ul>
+      </div>
+    </content>
+  </entry>
+  <entry>
+    <id>tag:beyondthewhiteboard.com,2007-12-23:WorkoutSession/19593949</id>
+    <published>2016-02-19T07:51:47-08:00</published>
+    <updated>2016-02-19T07:51:47-08:00</updated>
+    <link rel="alternate" type="text/html" href="http://beyondthewhiteboard.com/workout_sessions/19593949"/>
+    <title>Todd Beltz posted 5980 lbs | Not Rx'd for Every 2 mins...</title>
+    <author>
+      <name>Todd Beltz</name>
+      <uri>http://beyondthewhiteboard.com/members/197139</uri>
+    </author>
+    <summary/>
+    <category term="workout_session"/>
+    <category term="workout_id 2401760"/>
+    <category term="wod_id 3079828"/>
+    <link href="https://s3.amazonaws.com/assets.beyondthewhiteboard.com/images/missing/male-2-small.png" type="image/jpeg" title="profile_small"/>
+    <link href="https://s3.amazonaws.com/assets.beyondthewhiteboard.com/images/missing/male-2-medium.png" type="image/jpeg" title="profile_medium"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <ul class="workout_post">
+          <li class="name">Todd Beltz</li>
+          <li class="gender">Male</li>
+          <li class="workout">Every 2 mins for 10 mins: Deadlift</li>
+          <li class="result">5980 lbs</li>
+          <li class="prescribed">false</li>
+          <li class="video"></li>
+          <li class="profile_small">https://s3.amazonaws.com/assets.beyondthewhiteboard.com/images/missing/male-2-small.png</li>
+          <li class="profile_medium">https://s3.amazonaws.com/assets.beyondthewhiteboard.com/images/missing/male-5-medium.png</li>
+          <li class="profile_url">http://beyondthewhiteboard.com/members/197139</li>
+          <li class="result_change"></li>
+        </ul>
+      </div>
+    </content>
+  </entry>
+  <entry>
+    <id>tag:beyondthewhiteboard.com,2007-12-23:TrackEvent/3079936</id>
+    <published>2016-02-15T06:30:55-08:00</published>
+    <updated>2016-02-15T06:30:55-08:00</updated>
+    <link rel="alternate" type="text/html" href="http://beyondthewhiteboard.com/gyms/4860-crossfit-threefold/2016/feb/19"/>
+    <title>Activate Now</title>
+    <subtitle>AMRAP 12 mins w/ Buy-in: Double Unders, Strict Handstand Push-ups, Overhead Squats and Kettlebell Swing (American)s</subtitle>
+    <btwb:assigned>2016-02-19</btwb:assigned>
+    <summary>
+In 12 mins do:
+125 Double Unders
+then in the remaining time, AMRAP of:
+4 Strict Handstand Push-ups
+8 Overhead Squats, 135/95 lbs
+12 Kettlebell Swing (American)s, 70/53 lbs
+    </summary>
+    <category term="wod"/>
+    <category term="wod_id 3079936"/>
+    <category term="workout_id 3296829"/>
+    <category term="gym CrossFit Threefold"/>
+    <category term="track Threefold CrossFit WODs"/>
+    <category term="section main"/>
+    <author>
+      <name>CrossFit Threefold</name>
+      <uri>http://beyondthewhiteboard.com/gyms/4860-crossfit-threefold</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:beyondthewhiteboard.com,2007-12-23:WorkoutSession/19589591</id>
+    <published>2016-02-19T04:44:36-08:00</published>
+    <updated>2016-02-19T04:44:36-08:00</updated>
+    <link rel="alternate" type="text/html" href="http://beyondthewhiteboard.com/workout_sessions/19589591"/>
+    <title>Connor Jay Colson posted 3 rounds + 4 Strict Handstand Push-ups + 8 Overhead Squats + 10 Kettlebell Swing (American)s | Not Rx'd for AMRAP 12 min...</title>
+    <author>
+      <name>Connor Jay Colson</name>
+      <uri>http://beyondthewhiteboard.com/members/158379</uri>
+    </author>
+    <summary/>
+    <category term="workout_session"/>
+    <category term="workout_id 3296829"/>
+    <category term="wod_id 3079936"/>
+    <link href="https://s3.amazonaws.com/assets.beyondthewhiteboard.com/images/missing/male-2-small.png" type="image/jpeg" title="profile_small"/>
+    <link href="https://s3.amazonaws.com/assets.beyondthewhiteboard.com/images/missing/male-4-medium.png" type="image/jpeg" title="profile_medium"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <ul class="workout_post">
+          <li class="name">Connor Jay Colson</li>
+          <li class="gender">Male</li>
+          <li class="workout">AMRAP 12 mins w/ Buy-in: Double Unders, Strict Handstand Push-ups, Overhead Squats and Kettlebell Swing (American)s</li>
+          <li class="result">3 rounds + 4 Strict Handstand Push-ups + 8 Overhead Squats + 10 Kettlebell Swing (American)s</li>
+          <li class="prescribed">false</li>
+          <li class="video"></li>
+          <li class="profile_small">https://s3.amazonaws.com/assets.beyondthewhiteboard.com/images/missing/male-5-small.png</li>
+          <li class="profile_medium">https://s3.amazonaws.com/assets.beyondthewhiteboard.com/images/missing/male-1-medium.png</li>
+          <li class="profile_url">http://beyondthewhiteboard.com/members/158379</li>
+          <li class="result_change"></li>
+        </ul>
+      </div>
+    </content>
+  </entry>
+  <entry>
+    <id>tag:beyondthewhiteboard.com,2007-12-23:WorkoutSession/19589670</id>
+    <published>2016-02-19T04:47:56-08:00</published>
+    <updated>2016-02-19T04:47:56-08:00</updated>
+    <link rel="alternate" type="text/html" href="http://beyondthewhiteboard.com/workout_sessions/19589670"/>
+    <title>Denise Colson posted 3 rounds + Strict Handstand Push-up | Not Rx'd for AMRAP 12 min...</title>
+    <author>
+      <name>Denise Colson</name>
+      <uri>http://beyondthewhiteboard.com/members/158451</uri>
+    </author>
+    <summary/>
+    <category term="workout_session"/>
+    <category term="workout_id 3296829"/>
+    <category term="wod_id 3079936"/>
+    <link href="https://s3.amazonaws.com/assets.beyondthewhiteboard.com/pictures/images/000/049/803/small/Screen_Shot_2015-04-05_at_12.09.18_PM.png?1435291424" type="image/jpeg" title="profile_small"/>
+    <link href="https://s3.amazonaws.com/assets.beyondthewhiteboard.com/pictures/images/000/049/803/medium/Screen_Shot_2015-04-05_at_12.09.18_PM.png?1435291424" type="image/jpeg" title="profile_medium"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <ul class="workout_post">
+          <li class="name">Denise Colson</li>
+          <li class="gender">Female</li>
+          <li class="workout">AMRAP 12 mins w/ Buy-in: Double Unders, Strict Handstand Push-ups, Overhead Squats and Kettlebell Swing (American)s</li>
+          <li class="result">3 rounds + Strict Handstand Push-up</li>
+          <li class="prescribed">false</li>
+          <li class="video"></li>
+          <li class="profile_small">https://s3.amazonaws.com/assets.beyondthewhiteboard.com/pictures/images/000/049/803/small/Screen_Shot_2015-04-05_at_12.09.18_PM.png?1435291424</li>
+          <li class="profile_medium">https://s3.amazonaws.com/assets.beyondthewhiteboard.com/pictures/images/000/049/803/medium/Screen_Shot_2015-04-05_at_12.09.18_PM.png?1435291424</li>
+          <li class="profile_url">http://beyondthewhiteboard.com/members/158451</li>
+          <li class="result_change"></li>
+        </ul>
+      </div>
+    </content>
+  </entry>
+  <entry>
+    <id>tag:beyondthewhiteboard.com,2007-12-23:WorkoutSession/19590003</id>
+    <published>2016-02-19T05:05:51-08:00</published>
+    <updated>2016-02-19T05:05:51-08:00</updated>
+    <link rel="alternate" type="text/html" href="http://beyondthewhiteboard.com/workout_sessions/19590003"/>
+    <title>Michael Bellomo posted 2 rounds + 4 Strict Handstand Push-ups + 8 Overhead Squats | Rx'd for AMRAP 12 min...</title>
+    <author>
+      <name>Michael Bellomo</name>
+      <uri>http://beyondthewhiteboard.com/members/158504</uri>
+    </author>
+    <summary></summary>
+    <category term="workout_session"/>
+    <category term="workout_id 3296829"/>
+    <category term="wod_id 3079936"/>
+    <link href="https://s3.amazonaws.com/assets.beyondthewhiteboard.com/pictures/images/000/049/820/small/Screen_Shot_2015-12-17_at_3.50.09_PM.jpg?1450386169" type="image/jpeg" title="profile_small"/>
+    <link href="https://s3.amazonaws.com/assets.beyondthewhiteboard.com/pictures/images/000/049/820/medium/Screen_Shot_2015-12-17_at_3.50.09_PM.jpg?1450386169" type="image/jpeg" title="profile_medium"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <ul class="workout_post">
+          <li class="name">Michael Bellomo</li>
+          <li class="gender">Male</li>
+          <li class="workout">AMRAP 12 mins w/ Buy-in: Double Unders, Strict Handstand Push-ups, Overhead Squats and Kettlebell Swing (American)s</li>
+          <li class="result">2 rounds + 4 Strict Handstand Push-ups + 8 Overhead Squats</li>
+          <li class="prescribed">true</li>
+          <li class="video"></li>
+          <li class="profile_small">https://s3.amazonaws.com/assets.beyondthewhiteboard.com/pictures/images/000/049/820/small/Screen_Shot_2015-12-17_at_3.50.09_PM.jpg?1450386169</li>
+          <li class="profile_medium">https://s3.amazonaws.com/assets.beyondthewhiteboard.com/pictures/images/000/049/820/medium/Screen_Shot_2015-12-17_at_3.50.09_PM.jpg?1450386169</li>
+          <li class="profile_url">http://beyondthewhiteboard.com/members/158504</li>
+          <li class="result_change"></li>
+        </ul>
+      </div>
+    </content>
+  </entry>
+  <entry>
+    <id>tag:beyondthewhiteboard.com,2007-12-23:WorkoutSession/19592565</id>
+    <published>2016-02-19T06:59:34-08:00</published>
+    <updated>2016-02-19T06:59:34-08:00</updated>
+    <link rel="alternate" type="text/html" href="http://beyondthewhiteboard.com/workout_sessions/19592565"/>
+    <title>Rob Schlegel posted 3 rounds + 4 Strict Handstand Push-ups + 2 Overhead Squats | Not Rx'd for AMRAP 12 min...</title>
+    <author>
+      <name>Rob Schlegel</name>
+      <uri>http://beyondthewhiteboard.com/members/158538</uri>
+    </author>
+    <summary>Singles...95# OHS</summary>
+    <category term="workout_session"/>
+    <category term="workout_id 3296829"/>
+    <category term="wod_id 3079936"/>
+    <link href="https://s3.amazonaws.com/assets.beyondthewhiteboard.com/pictures/images/000/049/887/small/1397091_10206983865987069_3394315991090463892_o_(1).jpg?1451102980" type="image/jpeg" title="profile_small"/>
+    <link href="https://s3.amazonaws.com/assets.beyondthewhiteboard.com/pictures/images/000/049/887/medium/1397091_10206983865987069_3394315991090463892_o_(1).jpg?1451102980" type="image/jpeg" title="profile_medium"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <ul class="workout_post">
+          <li class="name">Rob Schlegel</li>
+          <li class="gender">Male</li>
+          <li class="workout">AMRAP 12 mins w/ Buy-in: Double Unders, Strict Handstand Push-ups, Overhead Squats and Kettlebell Swing (American)s</li>
+          <li class="result">3 rounds + 4 Strict Handstand Push-ups + 2 Overhead Squats</li>
+          <li class="prescribed">false</li>
+          <li class="video"></li>
+          <li class="profile_small">https://s3.amazonaws.com/assets.beyondthewhiteboard.com/pictures/images/000/049/887/small/1397091_10206983865987069_3394315991090463892_o_(1).jpg?1451102980</li>
+          <li class="profile_medium">https://s3.amazonaws.com/assets.beyondthewhiteboard.com/pictures/images/000/049/887/medium/1397091_10206983865987069_3394315991090463892_o_(1).jpg?1451102980</li>
+          <li class="profile_url">http://beyondthewhiteboard.com/members/158538</li>
+          <li class="result_change"></li>
+        </ul>
+      </div>
+    </content>
+  </entry>
+  <entry>
+    <id>tag:beyondthewhiteboard.com,2007-12-23:WorkoutSession/19593613</id>
+    <published>2016-02-19T07:39:38-08:00</published>
+    <updated>2016-02-19T07:39:38-08:00</updated>
+    <link rel="alternate" type="text/html" href="http://beyondthewhiteboard.com/workout_sessions/19593613"/>
+    <title>Luke LaBar posted 2 rounds + 4 Strict Handstand Push-ups + 2 Overhead Squats | Rx'd for AMRAP 12 min...</title>
+    <author>
+      <name>Luke LaBar</name>
+      <uri>http://beyondthewhiteboard.com/members/193612</uri>
+    </author>
+    <summary>Started with HSPU, finished with wall walks</summary>
+    <category term="workout_session"/>
+    <category term="workout_id 3296829"/>
+    <category term="wod_id 3079936"/>
+    <link href="https://s3.amazonaws.com/assets.beyondthewhiteboard.com/images/missing/male-2-small.png" type="image/jpeg" title="profile_small"/>
+    <link href="https://s3.amazonaws.com/assets.beyondthewhiteboard.com/images/missing/male-5-medium.png" type="image/jpeg" title="profile_medium"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <ul class="workout_post">
+          <li class="name">Luke LaBar</li>
+          <li class="gender">Male</li>
+          <li class="workout">AMRAP 12 mins w/ Buy-in: Double Unders, Strict Handstand Push-ups, Overhead Squats and Kettlebell Swing (American)s</li>
+          <li class="result">2 rounds + 4 Strict Handstand Push-ups + 2 Overhead Squats</li>
+          <li class="prescribed">true</li>
+          <li class="video"></li>
+          <li class="profile_small">https://s3.amazonaws.com/assets.beyondthewhiteboard.com/images/missing/male-3-small.png</li>
+          <li class="profile_medium">https://s3.amazonaws.com/assets.beyondthewhiteboard.com/images/missing/male-2-medium.png</li>
+          <li class="profile_url">http://beyondthewhiteboard.com/members/193612</li>
+          <li class="result_change"></li>
+        </ul>
+      </div>
+    </content>
+  </entry>
+  <entry>
+    <id>tag:beyondthewhiteboard.com,2007-12-23:WorkoutSession/19593984</id>
+    <published>2016-02-19T07:53:00-08:00</published>
+    <updated>2016-02-19T07:53:00-08:00</updated>
+    <link rel="alternate" type="text/html" href="http://beyondthewhiteboard.com/workout_sessions/19593984"/>
+    <title>Todd Beltz posted 3 rounds | Not Rx'd for AMRAP 12 min...</title>
+    <author>
+      <name>Todd Beltz</name>
+      <uri>http://beyondthewhiteboard.com/members/197139</uri>
+    </author>
+    <summary/>
+    <category term="workout_session"/>
+    <category term="workout_id 3296829"/>
+    <category term="wod_id 3079936"/>
+    <link href="https://s3.amazonaws.com/assets.beyondthewhiteboard.com/images/missing/male-1-small.png" type="image/jpeg" title="profile_small"/>
+    <link href="https://s3.amazonaws.com/assets.beyondthewhiteboard.com/images/missing/male-4-medium.png" type="image/jpeg" title="profile_medium"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <ul class="workout_post">
+          <li class="name">Todd Beltz</li>
+          <li class="gender">Male</li>
+          <li class="workout">AMRAP 12 mins w/ Buy-in: Double Unders, Strict Handstand Push-ups, Overhead Squats and Kettlebell Swing (American)s</li>
+          <li class="result">3 rounds</li>
+          <li class="prescribed">false</li>
+          <li class="video"></li>
+          <li class="profile_small">https://s3.amazonaws.com/assets.beyondthewhiteboard.com/images/missing/male-1-small.png</li>
+          <li class="profile_medium">https://s3.amazonaws.com/assets.beyondthewhiteboard.com/images/missing/male-4-medium.png</li>
+          <li class="profile_url">http://beyondthewhiteboard.com/members/197139</li>
+          <li class="result_change"></li>
+        </ul>
+      </div>
+    </content>
+  </entry>
+</feed>
